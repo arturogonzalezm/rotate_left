@@ -86,5 +86,3 @@ This sequence diagram illustrates the flow of the program, showing how it intera
 ## License
 
 This program is open-source and available under the MIT License.
-=======
-# rotate_left
