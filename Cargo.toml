@@ -1,0 +1,14 @@
+[package]
+name = "rotate_left"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rotate_left"   # Updated to snake_case
+path = "src/lib.rs"
+
+[[bin]]
+name = "rotate_left"   # Updated to snake_case
+path = "src/main.rs"
+
+[dependencies]

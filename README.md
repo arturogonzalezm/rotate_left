@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![codecov](https://codecov.io/gh/arturogonzalezm/rotate_left/graph/badge.svg?token=jfo7FbpvdP)](https://codecov.io/gh/arturogonzalezm/rotate_left)
 
 # Array Rotation Program
@@ -86,3 +87,6 @@ This sequence diagram illustrates the flow of the program, showing how it intera
 ## License
 
 This program is open-source and available under the MIT License.
+=======
+# rotate_left
+>>>>>>> origin/main
